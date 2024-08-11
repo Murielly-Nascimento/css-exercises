@@ -1,0 +1,18 @@
+.odd-numbered{
+    background-color: #F08080;
+    font-family: Verdana, "DejaVu Sans", Geneva, Tahoma, sans-serif;
+}
+
+.font-size{
+    font-size: 24px;
+}
+
+#second{
+    color: #6495ED;
+    font-size: 36px;
+}
+
+#fourth{
+    background-color: #008000;
+    font-weight: bold;
+}
